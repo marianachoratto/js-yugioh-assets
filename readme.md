@@ -2,7 +2,7 @@
 
 Jogo de jokenpo que aprendi no bootcamp Ifood- Desenvolvimento de jogos, no qual implementei algumas mudanças.
 
-Link para o jogo: 
+Link para o jogo: https://marianachoratto.github.io/js-yugioh-assets/
 
 Conceitos abordados:
 
